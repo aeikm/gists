@@ -1,6 +1,6 @@
 [submodule "gist"]
 	path = gist
 	url = https://gist.github.com/aeikm/3c2e63d82103697106ac81b26f207b75
-[submodule "template"]
-	path = template
-	url = https://gist.github.com/aeikm/728853f1da9e5aa067d1243fc0f4daaa
+[submodule "github"]
+	path = github
+	url = https://gist.github.com/aeikm/f91af6bb4f69d4a6c7911b09a89dbcac
