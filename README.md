@@ -2,6 +2,8 @@
 The list of Gist that I made.
 
 How to Add Gist:
+> git clone --recurse-submodules https://github.com/aeikm/gists
+
 > git submodule add [gistURL] [dir]
 
 eg)
@@ -10,6 +12,7 @@ eg)
 > git add modified-file new-file
 
 > git branch
+
 > git checkout -b add-gist
 
 > git commit -m "Add Comment"
