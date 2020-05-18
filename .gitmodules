@@ -1,12 +1,12 @@
-[submodule "gist"]
-	path = gist
-	url = https://gist.github.com/aeikm/3c2e63d82103697106ac81b26f207b75
-[submodule "github"]
-	path = github
-	url = https://gist.github.com/aeikm/f91af6bb4f69d4a6c7911b09a89dbcac
 [submodule "gfm"]
 	path = gfm
 	url = https://gist.github.com/aeikm/0ff3f0aa32a12d6210b0b0c78e4d2a4a
 [submodule "git"]
 	path = git
 	url = https://gist.github.com/aeikm/bf25ccdf790d6e87cbdf5b168213ba32
+[submodule "gist"]
+	path = gist
+	url = https://gist.github.com/aeikm/3c2e63d82103697106ac81b26f207b75
+[submodule "github"]
+	path = github
+	url = https://gist.github.com/aeikm/f91af6bb4f69d4a6c7911b09a89dbcac
