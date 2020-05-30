@@ -10,3 +10,12 @@
 [submodule "git"]
 	path = git
 	url = https://gist.github.com/aeikm/bf25ccdf790d6e87cbdf5b168213ba32
+[submodule "gist-test"]
+	path = gist-test
+	url = https://gist.github.com/aeikm/50f9b573b10d6b10bdea42d9d00bc3b4
+[submodule "vscode"]
+	path = vscode
+	url = https://gist.github.com/aeikm/484bedafdf283c5fb26dae42179a767d
+[submodule "h"]
+	path = h
+	url = https://gist.github.com/aeikm/4c52fc9ccc602b75fc92a4aa2bb7005b
