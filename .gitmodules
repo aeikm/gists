@@ -19,3 +19,6 @@
 [submodule "h"]
 	path = h
 	url = https://gist.github.com/aeikm/4c52fc9ccc602b75fc92a4aa2bb7005b
+[submodule "imgs"]
+	path = imgs
+	url = https://gist.github.com/aeikm/828984001db72e714983140fd1694c35
